@@ -21,6 +21,10 @@ This project reviews existing literature on different mechanisms that use OHL to
 
 - A working model of the pantograph-catenary bus system was created by scaling all dimensions down by 1/18 times.
 - The model uses a remote-control system for the movement of the bus and servo communication with RFID tags for the upward and downward movement of the pantograph.
+![Four Bar Mechanism](https://github.com/anarbhagat/BRTS-Pantograph-Project/blob/main/PANTO_1.jpg?raw=true)
+![With Pantograph Head](https://github.com/anarbhagat/BRTS-Pantograph-Project/blob/main/PANTO_2.jpg?raw=true)
+
+
 
 ## Cost-Benefit Analysis
 
